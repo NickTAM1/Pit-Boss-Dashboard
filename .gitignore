@@ -1,2 +1,17 @@
-/target
-/.idea
+# Rust build artifacts
+/target/
+
+# JetBrains project files
+/.idea/
+
+# Local editor and OS files
+/.vscode/
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+
+# Local environment and secret files
+.env
+.env.*
+!.env.example
