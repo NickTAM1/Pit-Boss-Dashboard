@@ -6,3 +6,4 @@ edition = "2024"
 [dependencies]
 eframe = "0.35.0"
 egui = "0.35.0"
+tungstenite = "0.29.0"
